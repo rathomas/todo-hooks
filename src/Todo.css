@@ -1,0 +1,13 @@
+.Todo {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.Todo__remove {
+    background: #3b3f47;
+    padding: 0 12px;
+    margin: 1px;
+    cursor: pointer;
+    user-select: none;
+}
